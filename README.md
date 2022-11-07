@@ -17,7 +17,7 @@ Organize them in dataset folder as follows:
   
 
 ```
-> --dataset   
+> --data   
 >  ---CUHK-PEDES      
 >    -----imgs
 > --------cam_a
@@ -31,7 +31,7 @@ Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person
 Organize them in dataset folder as follows:
 
 ```
--- dataset
+-- data
 --- RSTPReid
 ---- imgs
 ----processed_data
