@@ -13,6 +13,7 @@ Dataset Preparation
 
 1.CUHK-PEDES
 Organize them in dataset folder as follows:
+
 |-- dataset/
 |   |-- <CUHK-PEDES>/
 |       |-- imgs
