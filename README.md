@@ -51,6 +51,11 @@ python train.py
 ## Evaluation
 Import the 99checkpoint.pth file in the log file into the test_ Model.py, and then run test_ model.py
 
+## E-mail
+If you have any questions, please contact us: zhhylysys@yeah.net
+
+
+
 
 
 
