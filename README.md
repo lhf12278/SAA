@@ -14,13 +14,13 @@ Dataset Preparation
 1.CUHK-PEDES
 Organize them in dataset folder as follows:
 
-  --dataset
-   ---CUHK-PEDES         
+  --dataset  
+  ---CUHK-PEDES         
  -----imgs  
 --------cam_a  
 --------cam_b 
---------...   
-   --- reid_raw.json  
+--------...     
+  --- reid_raw.json  
 
 Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)
 2.ICFG-PEDES
