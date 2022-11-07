@@ -20,19 +20,19 @@ Organize them in dataset folder as follows:
 --------cam_a  
 --------cam_b 
 --------...     
-  --- reid_raw.json  
+  --- reid_raw.json    
 
-Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)
+Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)  
 2.ICFG-PEDES
 Organize them in dataset folder as follows:
--- dataset
---- RSTPReid
----- imgs
-----processed_data
----------test_save.pkl
----------train_save.pkl
----------val_save.pkl
-----  RSTPReid.json
+-- dataset  
+--- RSTPReid  
+---- imgs  
+----processed_data  
+---------test_save.pkl  
+---------train_save.pkl  
+---------val_save.pkl  
+----  RSTPReid.json  
 We evaluate our method on RSTPReid. Please check the data.
 
 ## Training and Testing
