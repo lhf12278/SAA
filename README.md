@@ -15,7 +15,7 @@ Dataset Preparation
 Organize them in dataset folder as follows:
 
   --dataset
-   ---CUHK-PEDES       
+   ---CUHK-PEDES         
  -----imgs
 --------cam_a
 --------cam_b
