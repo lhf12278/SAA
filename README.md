@@ -45,7 +45,7 @@ We evaluate our method on RSTPReid. Please check the data.
 
 ## Training and Testing
 python train.py
- --max-length 64 --batch-size 64 --num-epoches  --adam-lr 0.003 --gpus 0
+ --max-length 64 --batch-size 64 --num-epoches  --adam-lr 0.001 --gpus 0
 
 
 ## Evaluation
