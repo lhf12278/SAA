@@ -26,7 +26,7 @@ Organize them in dataset folder as follows:
 >   --- reid_raw.json
 ```
 
-Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)
+Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)  
 2.ICFG-PEDES
 Organize them in dataset folder as follows:
 
