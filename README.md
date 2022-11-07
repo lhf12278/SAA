@@ -11,7 +11,7 @@
 
 Dataset Preparation
 
-1.CUHK-PEDES
+###1.CUHK-PEDES
 Organize them in dataset folder as follows:
 
   --dataset  
@@ -23,7 +23,7 @@ Organize them in dataset folder as follows:
   --- reid_raw.json    
 
 Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)  
-2.ICFG-PEDES
+###2.ICFG-PEDES
 Organize them in dataset folder as follows:
 -- dataset  
 --- RSTPReid  
