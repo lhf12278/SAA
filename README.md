@@ -18,7 +18,7 @@ Organize them in dataset folder as follows:
   ---CUHK-PEDES         
  -----imgs  
 --------cam_a  
---------cam_b 
+--------cam_b   
 --------...     
   --- reid_raw.json    
 
